@@ -1,0 +1,17 @@
+
+<Project Header="Project 'IAP'" Path=".\Project.rprj" Project="Yes" OutputFile="" sate="96" ActiveApp="IAP" >
+	<ApplicationBuild Header="IAP" Extern=".\Project.rapp" Path=".\Project.rapp" OutputFile=".\obj\Project.elf" sate="98" Config="STM32303C-EVAL" />
+	<Options>
+		<Config Header="STM32303C-EVAL" >
+			<Set Header="Target" >
+				<Section Header="ToolSetARM" >
+					<Property Header="BuildToolSetARM" Value="ARM\GNU.config" />
+																									
+				</Section>
+																			
+			</Set>
+										
+		</Config>
+						
+	</Options>
+</Project>

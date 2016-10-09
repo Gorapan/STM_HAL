@@ -1,0 +1,17 @@
+
+<Project Header="Project 'SysTick'" Path=".\Project.rprj" Project="Yes" OutputFile="" sate="96" ActiveApp="SysTick" >
+	<ApplicationBuild Header="SysTick" Extern=".\Project.rapp" Path=".\Project.rapp" OutputFile=".\STM32303C-EVAL\Project.elf" sate="96" Config="STM32303C-EVAL" />
+	<Options>
+		<Config Header="STM32303C-EVAL" >
+			<Set Header="Target" >
+				<Section Header="ToolSetARM" >
+					<Property Header="BuildToolSetARM" Value="ARM\GNU.config" />
+																																																				
+				</Section>
+																																								
+			</Set>
+																									
+		</Config>
+															
+	</Options>
+</Project>
